@@ -49,7 +49,7 @@ if [ -f $MY_TMP_FILE ]; then
         echo "#                      BY TeamNitro - support on                       #"
         echo "#              https://www.tunisia-sat.com/forums/forums               #"
         echo "########################################################################"
-        echo "#        Sucessfully Download Please apply from skin selection         #"
+        echo "#       Sucessfully Downloaded Please apply from plugin browser        #"
         echo "########################################################################"
 		if which systemctl > /dev/null 2>&1; then
 			sleep 2; systemctl restart enigma2
