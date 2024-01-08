@@ -46,7 +46,7 @@ if [ -f $MY_TMP_FILE ]; then
 	if [ $MY_RESULT -eq 0 ]; then
         echo "########################################################################"
         echo "#              Sherlockmod V1.4.2 INSTALLED SUCCESSFULLY               #"
-        echo "#                      BY TeamNitro - support on                       #"
+        echo "#                        BY Biko - support on                          #"
         echo "#              https://www.tunisia-sat.com/forums/forums               #"
         echo "########################################################################"
         echo "#       Sucessfully Downloaded Please apply from plugin browser        #"
